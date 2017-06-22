@@ -5,6 +5,7 @@ title: 'Shoot: Mari Mencoba Photoblogging'
 date: '2012-05-13 05:00:00'
 tags:
 - blog
+comments: true
 ---
 
 Beberapa minggu terakhir ini banyak sekali hal yang menyumpal di otak saya, yang pada akhirnya malah menyumbat inspirasi untuk menulis. Namun sebenarnya hal itu tidak menjadikan masalah buat diri saya, toh esensi dari kegiatan blogging itu sendiri adalah berbagi, jadi kalau saya sedang tidak memiliki sesuatu untuk dibagi saya juga tidak akan memaksakan kehendak untuk mempost apa-apa yang saya rasa tidak penting untuk dibagikan kepada sahabat. Saya malah bakal merasa kasihan kalau ada seseorang yang mampir ke blog ini, tapi tidak menemukan apa yang dicari, meskipun pada dasarnya juga banyak tidak dapatnya, tapi paling tidak bisa membuat orang meninggalkan komentar lah, itu indikasi kalau orangnya sudah baca, paling tidak. :-D. Well, terserah mereka mau menempatkan blog ini dimana, kalau memang berguna ya Alhamdulillah, kalau tidak ya syukur.
