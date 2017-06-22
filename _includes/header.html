@@ -1,0 +1,23 @@
+<header class="site-header">
+
+  <div class="container">
+
+	<nav>
+		<div class="grid">
+			<div class="grid__col grid__col--2-of-8">
+				<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+			</div>
+			<div class="grid__col grid__col--4-of-8">
+				{% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
+				<ul class="list-inline">
+					<li><a {% if location == '' %}class="active" {% endif %} href="https://sasono.web.id">Home</a></li>
+					<li><a {% if location == 'blog' %}class="active" {% endif %} {% if location == 'blog' %}class="active" {% endif %} href="{{ site.baseurl }}">Blog</a></li>
+					<li><a {% if location == 'works' %}class="active" {% endif %}href="https://sasono.web.id/works">Works</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+  </div>
+
+</header>

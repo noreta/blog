@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<article class="grid">
+	<header class="grid__col grid__col--2-of-8">
+		{% if page.title %}
+		<h1 class="page__title">{{ page.title }}</h1>
+			{% if page.headline %}
+			<h2 class="page__headline">{{ page.date | date: "%B %Y" }}</h2>
+			{% endif %}
+		{% endif %}
+
+		{% if page.client_name %}
+			<p class="">Client<br>
+			{% if page.client_url %}
+				<a href="{{ page.client_url }}">{{ page.client_name }}</a>
+			{% else %}
+				{{ page.client_name }}
+			{% endif %}
+			</p>
+		{% endif %}
+
+		{% if page.website_url %}
+			<p class="">Website<br>
+				<a href="{{ page.website_url }}">{{ page.website_name }}</a>
+			</p>
+		{% endif %}
+		<div class="separator"></div>
+	</header>
+	<div class="grid__col grid__col--4-of-8">
+		{{ content }}
+		<!--<img src="{{ page.preview }}" alt="{{ page.title }}" class="imgbleed">-->
+	</div>
+</article>

@@ -1,0 +1,39 @@
+# Site settings
+name: Noreta Agus Sasono
+email: noreta@sasono.web.id
+url: "https://blog.sasono.web.id" # the base hostname & protocol for your site
+enforce_ssl: blog.sasono.web.id
+description: Blog Noreta Agus Sasono - personal thoughts, stories, and ideas. # this means to ignore newlines until "baseurl:"
+  
+title: "Noreta Agus Sasono"
+baseurl:  # the subpath of your site, e.g. 
+
+gems:
+  - octopress-autoprefixer
+  - jekyll-sitemap
+
+# Social
+twitter: norsasono
+dribbble: norsasono
+instagram: norsasono
+github: norsasono
+
+# Build settings
+markdown: kramdown
+
+# Serving
+port: 4000
+host: 0.0.0.0
+
+permalink: /:year/:month/:day/:title/
+
+sass:
+    style: :compressed
+
+collections:
+  - works
+
+collections:
+  works:
+    output: true
+    permalink: /works/:title/

@@ -1,0 +1,27 @@
+<footer class="site-footer small">
+
+	<div class="container">
+
+	<nav>
+		<div class="grid">
+			<div class="grid__col grid__col--4-of-8 grid__col--centered">
+				<!--©<script type="text/javascript">document.write(new Date().getFullYear());</script>. {{ site.name }}.-->Styled with Sass. Generated in Jekyll.
+				<ul class="list-inline">
+					<li><a href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
+					<li><a href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+					<li><a href="https://photo.sasono.web.id">Photo</a></li>
+					<li><span id="email"></span></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+
+</footer>
+
+<script>
+  var parts = ["noreta", "sasono", "web.id", "&#46;", "&#64;"];
+  var email = parts[0] + parts[4] + parts[1] + parts[3] + parts[2];
+  document.getElementById("email").innerHTML=email;
+</script>

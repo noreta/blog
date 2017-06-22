@@ -1,0 +1,34 @@
+// ------------------------------
+//
+// Links
+//
+// ------------------------------
+
+a {
+	@extend %transition-1;
+
+	&:link,
+	&:visited {
+		color: $color-link;
+		text-decoration: none;
+	}
+
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		color: $color-link !important;
+		text-decoration: underline;
+	}
+
+	&:focus {
+		outline: none;
+	}
+
+	&.btn {
+		&:focus,
+		&:active {
+			color: inherit;
+		}
+	}
+}

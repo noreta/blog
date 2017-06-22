@@ -1,0 +1,6 @@
+*.codekit
+*.codekit3
+*.scssc
+_site/
+_drafts/
+.DS_Store
