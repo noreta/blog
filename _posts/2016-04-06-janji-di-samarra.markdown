@@ -5,6 +5,7 @@ title: Janji di Samarra
 date: '2016-04-06 15:01:00'
 tags:
 - story
+comments: true
 ---
 
 ![Al-Malwiyya in Samarra by Gustaf Wallen](/images/2016/04/al-malwiyya-samarra.jpg)

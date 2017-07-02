@@ -4,6 +4,7 @@ title: Lintang Kemukus
 date: '2014-09-26 05:00:00'
 tags:
 - personal
+comments: true
 ---
 
 Bismillah .. Assalamu'alaikum sang ghaib ..

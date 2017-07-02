@@ -7,6 +7,7 @@ tags:
 - internet
 - design
 - blog
+comments: true
 ---
 
 ![Dandelion](/images/2016/06/dandelions.png)

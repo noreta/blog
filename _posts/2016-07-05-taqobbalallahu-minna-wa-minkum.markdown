@@ -5,6 +5,8 @@ title: Taqobbalallahu Minna wa Minkum
 date: '2016-07-05 16:36:58'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 Tibalah kita di penghujung Ramadan. Saya haturkan maaf yang sedalam-dalamnya untuk kalian atas segala kesalahan yang telah sengaja saya buat maupun tidak.

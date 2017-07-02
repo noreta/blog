@@ -6,6 +6,8 @@ tags:
 - personal
 - love
 category: blog
+comments: true
+hidden: true
 ---
 
 Tiada yang lain saat ini

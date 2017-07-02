@@ -5,6 +5,8 @@ title: Suara dari Balik Hijab
 date: '2012-11-11 13:59:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 > Seperti garam yang selalu memainkan perannya diam-diam. Tidak perlu berwujud, ia hanya perlu larut. <cite>-Ana Monica Rufisa</cite>

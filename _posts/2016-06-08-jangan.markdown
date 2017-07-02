@@ -5,6 +5,8 @@ title: Jangan
 date: '2016-06-08 08:27:53'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 ***

@@ -5,6 +5,8 @@ title: Google Noto Fonts
 date: '2015-04-01 05:00:00'
 tags:
 - internet
+comments: true
+hidden: true
 ---
 
 > Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.

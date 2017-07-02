@@ -6,6 +6,8 @@ date: '2016-05-18 04:18:48'
 tags:
 - internet
 - design
+comments: true
+hidden: true
 ---
 
 Bagi kalian yang bekerja sebagai seorang Desainer Grafis atau operator komputer, mungkin 12 kalimat dari seorang *klien* ini akan terasa begitu menyakitkan jika didengar [^1].

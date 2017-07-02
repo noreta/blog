@@ -5,6 +5,8 @@ title: "[INFO] Registrasi Keanggotaan Perpustakaan Nasional RI"
 date: '2016-12-26 13:31:09'
 tags:
 - info
+comments: true
+hidden: true
 ---
 
 Perpustakaan Nasional RI telah melanggan beberapa Database Jurnal Nasional dan Internasional terkemuka untuk berbagai bidang ilmu.

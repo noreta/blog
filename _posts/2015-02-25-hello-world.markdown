@@ -5,6 +5,7 @@ title: Hello World
 date: '2015-02-25 05:00:00'
 tags:
 - personal
+comments: true
 ---
 
 ![](http://pcplacements.com/wp-content/uploads/Hello-Picture.gif)

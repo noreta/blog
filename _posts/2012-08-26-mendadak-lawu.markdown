@@ -5,6 +5,7 @@ title: Mendadak Lawu
 date: '2012-08-26 13:24:00'
 tags:
 - personal
+comments: true
 ---
 
 Baiklah, ini memang bukan kali pertama saya menyambangi tempat ini, akan tetapi memang harus saya akui bahwa tempat ini juga mampu membuat saya jatuh cinta dengan berbagai alasan. Entahlah, saya tidak akan berbagi lewat cerita berupa tulisan, tentu saya lebih memilih memggambarkannya atau memaksa anda melihat secara langsung beberapa rekaman yang sempat terabadikan.

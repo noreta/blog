@@ -6,6 +6,7 @@ date: '2015-04-19 05:00:00'
 tags:
 - poem
 - art
+comments: true
 ---
 
 Dentuman sanubari menggelar

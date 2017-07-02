@@ -5,6 +5,7 @@ title: Menyamakan Frekuensi
 date: '2015-05-13 05:00:00'
 tags:
 - personal
+comments: true
 ---
 
 Bagi saya, aktivitas ngobrol itu bukan soal kecil dan bukan perkara mudah, kecuali kalau kalian menjadikan obrolan sebagai sarana tak lebih dari sekedar bentuk interaksi untuk bertukan informasi.

@@ -5,6 +5,8 @@ title: Racun Bagi Darahku
 date: '2015-09-04 14:40:00'
 tags:
 - puisi
+comments: true
+hidden: true
 ---
 
 Menghadapi kemerdekaan tanpa cinta

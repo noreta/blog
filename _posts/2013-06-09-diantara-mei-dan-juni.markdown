@@ -3,6 +3,10 @@ layout: post
 category: blog
 title: Diantara Mei dan Juni
 date: '2013-06-09 08:06:00'
+tags:
+- Personal
+comments: true
+hidden: true
 ---
 
 Ini teguran, jangan dijadikan alasan untuk tidak tersenyum.

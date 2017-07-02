@@ -5,6 +5,7 @@ title: Instal Driver KexTech USB Wireless Adapter di Ubuntu
 date: '2016-03-15 14:50:00'
 tags:
 - tutorial
+comments: true
 ---
 
 ![!showup//Kextech USB Wireless Adapter//!source: bukalapak](https://s2.bukalapak.com/img/1/7/5/1/1/1/2/7/2/w-300/MT7061_Wifi_Dongle_1.jpg)

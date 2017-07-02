@@ -5,6 +5,7 @@ title: Bacaan Sholawat Tarhim
 date: '2015-07-01 05:00:00'
 tags:
 - personal
+comments: true
 ---
 
 Saya yakin jika kebanyakan orang pernah mendengarkan bacaan sholawat yang satu ini, karena memang sangat populer di negara tercinta ini. Terlebih di bulan Romadhon seperti sekarang, Anda akan biasa mendengar sesaat setelah waktu imsyak dikumandangkan sebelum adzan sholat shubuh.

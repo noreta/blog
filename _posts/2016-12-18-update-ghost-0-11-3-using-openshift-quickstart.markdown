@@ -7,6 +7,7 @@ tags:
 - tutorial
 - blog
 - en
+comments: true
 ---
 
 ![Ghost](/images/2016/12/ghost.png)

@@ -5,6 +5,8 @@ title: Menjemput Agustus dengan Amanah
 date: '2012-07-31 13:48:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 Terhitung semenjak hari Minggu, 30 Juli 2012 kemarin, Saya mendapat satu amanah yang saya rasa cukup berat dari sebuah Organisasi yang harus saya emban satu tahun kedepan. Rasa-rasanya akan memiliki dampak besar pada diri saya, melihat dari besarnya amanah yang harus saya terima mulai Minggu kemarin.

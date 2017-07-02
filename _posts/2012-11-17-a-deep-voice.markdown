@@ -5,6 +5,8 @@ title: A Deep Voice
 date: '2012-11-17 14:01:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 Suaranya memang tidak merdu, cara bicarannya juga apa adanya, seperti kebanyakan orang tua pada umumnya. Tetapi ini berbeda. Entahlah, berbalas pembicaraan dengan beliau mungkin adalah salah satu dari beberapa hal yang dapat membuat saya selalu berpikir dalam menentukan kalimat, merangkainya dengan halus, lalu mengutarakannya dengan lembut.

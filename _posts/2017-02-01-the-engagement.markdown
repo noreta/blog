@@ -5,6 +5,7 @@ title: The Engagement
 date: '2017-02-01 10:25:00'
 tags:
 - personal
+comments: true
 ---
 
 > Maka aku larut dari padamu, secepat cahaya berlalu begitu.

@@ -7,6 +7,7 @@ tags:
 - tutorial
 - blog
 - en
+comments: true
 ---
 
 I don't know why the repository of Openshift Ghost Quickstart seems to be abandoned since January 2016. I mean, like there isn't any activity from the developer behind the Openshift team. That's why I initiated to start to write this post, because I believe that there are many of people like me trying to solve this problem. Yes, the problem to update the Ghost core to the recent version.

@@ -6,6 +6,7 @@ date: '2016-03-29 14:55:00'
 tags:
 - internet
 - tutorial
+comments: true
 ---
 
 Karena sebuah blog adalah cerminan dari pemiliknya, maka sudah semestinya tampilan juga harusnya disesuaikan dengan pemilik. Atau sedikit sentuhan setidaknya perlu dilakukan untuk memaksimalkan fitur maupun tampilan dari sebuah blog.

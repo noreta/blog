@@ -5,6 +5,8 @@ title: Kembali dari Hutan
 date: '2013-06-24 05:00:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 Ketika aku turun dari hutan, sejenak aku binggung dengan keadaan di kota. Aku pulang seperti biasa dengan Mio Sporty tahun 2008ku yang masih oke, tak lupa juga aku harus mengantar Nyai pulang ke rumah, dengan uang saku darinya untuk beli bensin aku lanjutkan perjalanan menuju Ngawi dengan perasaan riang gembira.

@@ -5,6 +5,8 @@ title: Dalam Satu Tahun Mengemban Kewajiban
 date: '2013-07-29 07:34:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 > <p align="center">Kita adalah satu, kita adalah sama. Satukan semangat kita, layaknya serangkaian rantai baja.</p>

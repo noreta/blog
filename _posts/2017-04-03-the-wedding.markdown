@@ -7,6 +7,7 @@ tags:
 - design
 - wedding
 category: blog
+comments: true
 ---
 
 > Coz our new life will begin soon.

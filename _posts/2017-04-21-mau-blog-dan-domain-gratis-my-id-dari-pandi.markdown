@@ -7,6 +7,7 @@ tags:
 - blog
 - info
 category: blog
+comments: true
 ---
 
 > Mari bergabung di revolusi Identitas Digital Indonesia.

@@ -5,6 +5,7 @@ title: There is No "Maybe"
 date: '2016-05-27 18:26:18'
 tags:
 - personal
+comments: true
 ---
 
 Katakanlah sebuah penyesalan, katakanlah sebuah keinginan, atau apapun itu. Itulah alasan mengapa saya menulis tulisan ini, **disini**.

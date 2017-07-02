@@ -5,6 +5,8 @@ title: Biar Ingat Mati
 date: '2015-03-29 16:21:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 <div class="video">

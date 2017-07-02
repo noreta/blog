@@ -7,6 +7,7 @@ tags:
 - tutorial
 - blog
 - en
+comments: true
 ---
 
 Ghost recently released a new version of the CMS, and again, here are the steps or tutorial on how to update your Ghost to the version 0.9.0 for the users of Openshift Quickstart. This is the easier way to update your Ghost rather than [this one](https://blog.sasono.web.id/2016/06/03/update-ghost-0-8-0-using-openshift-quickstart/) I wrote before.

@@ -6,6 +6,7 @@ date: '2016-05-06 02:20:40'
 tags:
 - tutorial
 - blog
+comments: true
 ---
 
 Perlu diketahui bahwa ini bukan kali pertama saya memutuskan untuk memindahkan blog saya ke tempat lain. Terakhir kali tercatat lebih dari satu tahun yang lalu saya menggunakan platform **Jekyll** [^1] untuk menjalankan blog ini. Dan jika diingat, ini adalah kali ketiga saya bermigrasi dari **Blogger**, berlanjut ke **Github Page** dengan **Jekyll**, dan sekarang beralih ke **Openshift**.

@@ -5,6 +5,8 @@ title: "(Pre) Memori"
 date: '2016-06-08 11:25:00'
 tags:
 - memori
+comments: true
+hidden: true
 ---
 
 (Pre) Memori [^1]. Tulisan ini saya persembahkan untuk seseorang yang pertama kali memberikan perhatian disaat yang lain tidak.

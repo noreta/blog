@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Bali Je T'Aime
 date: '2012-09-09 05:00:00'
+comments: true
 ---
 
 Seperti yang sudah pernah saya katakan sebelumnya, September adalah bulan yang  cukup menyenangkan, semoga ..

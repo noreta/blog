@@ -5,6 +5,8 @@ title: Upgrade Ubuntu 16.04 Xenial Xerus (LTS)
 date: '2016-04-26 15:17:27'
 tags:
 - tutorial
+comments: true
+hidden: true
 ---
 
 ![](/images/2016/04/Ubuntu-1604-software-settings.png)

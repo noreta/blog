@@ -4,6 +4,7 @@ title: Bukan Bayangan
 date: '2014-10-02 14:54:00'
 tags:
 - personal
+comments: true
 ---
 
 Di depan cermin, pukul 18.30.

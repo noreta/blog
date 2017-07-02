@@ -5,6 +5,7 @@ title: Milestone
 date: '2015-04-30 04:07:00'
 tags:
 - personal
+comments: true
 ---
 
 ![Graduation](/images/2015/04/graduation.jpg)

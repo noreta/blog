@@ -5,6 +5,7 @@ title: Galeri Personal
 date: '2016-07-02 19:09:00'
 tags:
 - blog
+comments: true
 ---
 
 ![](/images/2016/07/photoblog.png)

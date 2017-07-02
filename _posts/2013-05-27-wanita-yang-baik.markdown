@@ -5,6 +5,8 @@ title: Wanita Yang Baik
 date: '2013-05-27 05:00:00'
 tags:
 - personal
+comments: true
+hidden: true
 ---
 
 ![](http://24.media.tumblr.com/06a45d05a7befab3aed2279089c93f72/tumblr_mnf02bVN5D1s2cbzro1_1280.jpg)
