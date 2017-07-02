@@ -1,0 +1,20 @@
+---
+layout: page
+title: Archive
+---
+
+Selamat datang di halaman Arsip, disini kalian akan menemukan semua tulisan yang telah saya buat, bahakan yang membuat saya malu saat membacanya. <i>Judge not by these articles.</i>
+
+<hr>
+
+<ul class="posts__list">
+  {% for post in site.posts %}
+    <li>
+    	<a href="{{ post.url | prepend: site.baseurl }}">
+			<h1 class="post__title" style="font-weight: bold">{{ post.title }}</h1>
+			<h2 class="post__headline">{{ post.date | date: "%b %-d, %Y" }}</h2>
+    	</a>
+<hr>
+    </li>
+  {% endfor %}
+</ul>
