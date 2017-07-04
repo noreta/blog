@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update Ghost 0.11.3 [Openshift]
-date: '2016-12-18 18:29:08'
+date: '2016-12-19 18:29:08'
 category: blog
 tags:
 - tutorial
