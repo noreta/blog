@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Update Ghost 0.9.0 Using Openshift Quickstart
-date: '2016-08-02 15:25:18'
+date: '2016-08-04'
 tags:
 - tutorial
 - blog

@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Galeri Personal
-date: '2016-07-02 19:09:00'
+date: '2016-07-04 19:09:00'
 tags:
 - blog
 comments: true

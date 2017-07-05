@@ -4,7 +4,8 @@ category: blog
 title: Mendadak Lawu
 date: '2012-08-26 13:24:00'
 tags:
-- personal
+- Personal
+- Trip
 comments: true
 ---
 

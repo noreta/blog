@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "(Pre) Memori"
-date: '2016-06-08 11:25:00'
+date: '2016-06-18 11:25:00'
 tags:
 - memori
 comments: true
