@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deploying Latest Ghost on Openshift"
+title:  "Deploying The Latest Ghost on Openshift"
 date:   2017-07-09
 category: EN
 tags:
