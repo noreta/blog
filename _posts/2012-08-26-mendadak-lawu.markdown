@@ -9,6 +9,7 @@ tags:
 comments: true
 ---
 
+<a href="http://farm8.staticflickr.com/7250/7855048748_bae345e373_b.jpg"><img src="http://farm8.staticflickr.com/7250/7855048748_bae345e373_b.jpg" alt="Hargo Dalem" class="imgright"></a>
 Baiklah, ini memang bukan kali pertama saya menyambangi tempat ini, akan tetapi memang harus saya akui bahwa tempat ini juga mampu membuat saya jatuh cinta dengan berbagai alasan. Entahlah, saya tidak akan berbagi lewat cerita berupa tulisan, tentu saya lebih memilih memggambarkannya atau memaksa anda melihat secara langsung beberapa rekaman yang sempat terabadikan.
 
 Katakanlah ini sebuah acara tidak terduga, pasalnya memang tidak ada rencana sebelumnya. Bermula hari Rabu kemarin sepulang bermain futsal, seperti biasa dengan tradisinya, kumpul dulu di angkringan untuk mengisi energi. Di tengah-tengah pembicaraan ada salah seorang sahabat yang bilang kalau dia pengen nganter keponakannya muncak besok, karena memang belum ada

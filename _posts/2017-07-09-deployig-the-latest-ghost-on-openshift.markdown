@@ -28,25 +28,22 @@ Luckily, even they don't provide you the Node.js version that is required to dep
 
 I don't use their default Ghost quickstart repository, I use the specific Node.js version to run on their server first and deploy Ghost manually.
 
-<hr>
+---
 
 [https://github.com/norsasono/openshift-ghost-starter](https://github.com/norsasono/openshift-ghost-starter)
 
-<hr>
+---
 
 # Inside The Package
 
 * Nodejs v.6.9.5 (Recomended from Ghost)
-
 * Ghost 0.11.10 (Latest stable version)
 
 # How To?
 
 1. Make a new Application using [Ghost 0.7.5 Quickstart](https://openshift.redhat.com/app/console/application_type/quickstart!240)
-
-1. Use this repository as a source.
-
-1. Done.
+2. Use this repository as a source.
+3. Done.
 
 Don't worry, I actually used Node v.6.9.5 as the default cartridge because the default Node.js version from [Openshift-Ghost-Quickstart](https://github.com/openshift-quickstart/openshift-ghost-quickstart) is 0.10.** and no longger suppported for the recent Ghost version.
 
