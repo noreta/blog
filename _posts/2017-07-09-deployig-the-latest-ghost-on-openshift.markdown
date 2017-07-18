@@ -14,7 +14,7 @@ categories: EN
 
 ![](/images/2016/12/ghost.png)
 
-For you who want to deploy the latest [Ghost](https://tryghost.org) on [Openshift](https://openshift.redhat.com), this is the alternative Ghost Quickstart you can used as a source code. Here you go [https://github.com/norsasono/openshift-ghost-starter](https://github.com/norsasono/openshift-ghost-starter).
+For you who want to deploy the latest [Ghost](https://tryghost.org) on [Openshift](https://openshift.redhat.com), this is the alternative Ghost Quickstart you can use as a source code. Here you go [https://github.com/norsasono/openshift-ghost-starter](https://github.com/norsasono/openshift-ghost-starter).
 
 I seperated it from their original repository for my personal purpose. I can't promise you to always stay up-to-date, but you can make a contribution to make the repository stay alive.
 
@@ -45,7 +45,7 @@ I don't use their default Ghost quickstart repository, I use the specific Node.j
 2. Use this repository as a source.
 3. Done.
 
-Don't worry, I actually used Node v.6.9.5 as the default cartridge because the default Node.js version from [Openshift-Ghost-Quickstart](https://github.com/openshift-quickstart/openshift-ghost-quickstart) is 0.10.** and no longger suppported for the recent Ghost version.
+Don't worry, I actually use Node v.6.9.5 as the default cartridge because the default Node.js version from [Openshift-Ghost-Quickstart](https://github.com/openshift-quickstart/openshift-ghost-quickstart) is 0.10.** and no longger suppported for the recent Ghost version.
 
 # Is it possible to be used to deploy Ghost v 1.0.-Beta?
 
