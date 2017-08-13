@@ -1,0 +1,20 @@
+---
+layout: post
+title: Turning 25
+date: '2017-08-13'
+tags:
+- Personal
+comments: true
+description: Turning 25.
+categories: EN
+hidden: true
+---
+
+Today I'm turning 25, and these are the things I've got this year.
+
+- Married my girl friend.
+- Got a new job
+- .......
+- .......
+
+Will be updated.
