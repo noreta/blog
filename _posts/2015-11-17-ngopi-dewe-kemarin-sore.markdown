@@ -6,6 +6,7 @@ date: '2015-11-17 14:45:00'
 tags:
 - personal
 comments: true
+hidden: true
 ---
 
 Sehari yang lalu saya sempat terlibat dalam obrolan singkat dengan seorang wanita paruh baya. Sebuah pembicaraan singkat di salah satu sudut kota Madiun, di warung kopi pinggir jalan.
