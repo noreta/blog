@@ -11,4 +11,12 @@ categories: EN
 
 Cuma mau bilang kalau post ini terpaut satu tahun dari post sebelumnya. Semenjak saya bekerja full-time Agustus tahun lalu saya jadi banyak off-line dari pada on-linenya. 
 
-Udah gitu aja dulu ..
+Tapi meskipun demikian, saya masih beberapa kali posting kok, di tempat lain, dan dalam bentuk lain[^1].
+
+{% image imgbleed 2018/09/photoblog.png %}
+
+Semoga kalian bisa buka, soalnya di situ saya pakai *platform* Tumblr.
+
+***
+
+[^1]: Photoblog : [https://photo.sasono.web.id](https://photo.sasono.web.id).
