@@ -1,5 +1,6 @@
 {
   "projects": {
-    "github": "blog-b4aae"
+    "github": "blog-b4aae",
+    "default": "blog-b4aae"
   }
 }
